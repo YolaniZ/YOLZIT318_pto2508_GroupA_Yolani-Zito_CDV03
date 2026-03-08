@@ -23,7 +23,7 @@ The objective of this project is to create a clear, concise, and compelling resu
 ## Link to Resume
 
 🔗 **Google Docs Resume:**  
-[]
+[https://docs.google.com/document/d/1ltXWqkLE6DyZfZaMiN44fVyHq6c57Id87IAsfBrMH6A/edit?tab=t.0#heading=h.bug2ubkcbtr2]
 
 
 
